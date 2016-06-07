@@ -1,4 +1,4 @@
-#Home work for "Operating system" class
+#Homework for "Operating system" class
 
 There is a server that handles client orders in separate processes. 
 Client data are storing in shared memory, access to which is managed by semaphores.
