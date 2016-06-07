@@ -2,7 +2,7 @@
 
 There is a server that handles client orders in separate processes. 
 Client data are storing in shared memory, access to which is managed by semaphores.
-Client can book seats, get current schema of the plane and list of passengers.
+Clients can book seats, get current schema of the plane or list of passengers.
 
 ```
 $ ./cli 127.0.0.1
