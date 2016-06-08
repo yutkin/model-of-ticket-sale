@@ -1,5 +1,4 @@
-#Homework for "Operating system" class
-
+##Homework for "Operating system" class. Booking system of airline tickets based on IPC.
 There is a server that handles client orders in separate processes. 
 Client data are storing in shared memory, access to which is managed by semaphores.
 Clients can book seats, get current schema of the plane or list of passengers.
